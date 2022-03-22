@@ -1,9 +1,4 @@
-This repository contains the code for the paper: "End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps". 
-
-Code will be released soon. Stay tuned.
-
-
-This repo contains the official implementation of our paper:
+This repo contains the official implementation of our paper: "End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps". 
   
 **CVPR 2022**  
 
@@ -16,7 +11,7 @@ This repo contains the official implementation of our paper:
 
 
 ### Data and pretrained model
-Please download the pretrained model and data from . Extract the zip file into the main folder.
+Please download the pretrained model and data from https://drive.google.com/drive/folders/19N5C_WLr5ekKy_zo-KVcMse3aRA9MGOj?usp=sharing. Extract the zip file into the main folder.
 
 ### Data Preprocessing
 
