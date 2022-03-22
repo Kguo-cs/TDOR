@@ -15,8 +15,8 @@ This repo contains the official implementation of our paper:
 * PyTorch == 1.8.0
 
 
-### Data Preprocessing
-Please download the pretrained modeldata and config files from: . Extract the zip file into the main folder.
+### Data and pretrained model
+Please download the pretrained model and data from . Extract the zip file into the main folder.
 
 ### Data Preprocessing
 
