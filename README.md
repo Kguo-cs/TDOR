@@ -15,13 +15,6 @@ This repo contains the official implementation of our paper:
 * PyTorch == 1.8.0
 
 
-
-### Datasets
-
-
-Please download the pretrained models, data and config files from: . Extract the zip file into the main folder.
-
-
 ### Data Preprocessing
 
 * SDD (Trajnet split)
@@ -51,6 +44,29 @@ Please download the pretrained models, data and config files from: . Extract the
       ```
       python data/SDD/process_inD.py
       ``` 
+      
+### Training 
 
 
+Training the model for Trajnet:
+
+      ```
+      python train.py  --dataset "trajnet"
+      ``` 
+For SDD(p2t split) or inD, the "trajnet" need to be replaced by "sdd" or "ind".   
+
+### Evaluation   
+
+Evaluating on Trajnet dataset:
+
+      ```
+      python eval.py  --dataset "trajnet"
+      ``` 
+For SDD(p2t split) or inD, the "trajnet" need to be replaced by "sdd" or "ind".   
+
+## Citation
+
+```
+
+```
 
