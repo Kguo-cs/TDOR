@@ -40,7 +40,7 @@ Here is the detail of data preprocessing. You can skip it by using the data from
 
 1. Obtain the processed inD data from [Y-Net](https://github.com/HarshayuGirase/Human-Path-Prediction/tree/master/ynet). Put the data under [data/SDD](data/IND)
 
-2. Run [script](process_trajnet.py) to process the downloaded "train_longterm.pkl" and "test_longterm.pkl":
+2. Run [script](process_trajnet.py) to process the downloaded "inD_train.pkl" and "inD_test.pkl":
       ```
       python data/SDD/process_inD.py
       ``` 
