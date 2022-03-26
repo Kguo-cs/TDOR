@@ -41,10 +41,10 @@ else:
     gamma = 0.9996
 
     # if dataset=="trajnet":#tain 67952 val :2829
-    step1 = 15  # 15#-1#15#-1#1z5
-    step2 = 25  # 30#15#30#30
-    step3 = 50  # 50#45#1100#45
-    step4 = 100  # 120
+    step1 = 15  
+    step2 = 25 
+    step3 = 50  
+    step4 = 100  
 
     from data.SDD.sdd import sdd as DS
 
