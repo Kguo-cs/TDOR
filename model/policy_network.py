@@ -90,7 +90,7 @@ class PolicyNet(nn.Module):
 
         ns_feats=torch.stack(ns_feats,dim=1)
 
-        r_n=self.conv_r(ns_feats.view(-1,self.ns_dim,self.grid_dim,self.grid_dim)).view(-1,self.horizon,5,self.grid_dim,self.grid_dim)[:, 0,None].repeat(1, self.horizon, 1, 1, 1)  # .to(device)
+        r_n=self.conv_r(ns_feats.view(-1,self.ns_dim,self.grid_dim,self.grid_dim)).view(-1,self.horizon,5,self.grid_dim,self.grid_dim)
 
         v = torch.zeros_like(r_n[:, 0, :1])
 
