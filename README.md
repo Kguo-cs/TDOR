@@ -1,4 +1,5 @@
 This repo contains the official implementation of our paper: "End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps". 
+  Ke Guo, Wenxi Liu, Jia Pan.
   
 **CVPR 2022**  
 
