@@ -68,6 +68,11 @@ For SDD(p2t split) or inD, the "trajnet" need to be replaced by "sdd" or "ind".
 ## Citation
 
 ```
-
+@inproceedings{guo2022end,
+  title={End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps},
+  author={Ke, Guo and Wenxi, Liu and Jia, Pan},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2022}
+}
 ```
 
