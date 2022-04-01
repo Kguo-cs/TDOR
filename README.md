@@ -2,7 +2,7 @@ This repo contains the official implementation of our paper: "End-to-End Traject
   Ke Guo, Wenxi Liu, Jia Pan.
   
 **CVPR 2022**  
-
+[paper](http://arxiv.org/abs/2203.16910)
 
 # Installation 
 
