@@ -12,7 +12,7 @@ This repo contains the official implementation of our paper: "End-to-End Traject
 
 
 ### Data and pretrained model
-Please download the pretrained model and data from https://drive.google.com/drive/folders/19N5C_WLr5ekKy_zo-KVcMse3aRA9MGOj?usp=sharing. Extract the zip file into the main folder.
+Please download the pretrained model and data from onedrive(https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3006612_connect_hku_hk/EXqC6hjGTphKh8TkjrwtByEB3FFZ_dpCu0Rs6N7CTG2gag?e=5q4Knz). Extract the zip file into the main folder.
 
 ### Data Preprocessing
 
